@@ -4,8 +4,9 @@
 Python 3.7+, Pytorch 1.5.0+, Cuda 10.2+, TensorboardX 2.1, opencv-python If anything goes wrong with the environment, please check requirements.txt for details.
 # Architecture and Details
 ![image](https://github.com/TzP2024/HKDNet/blob/main/fig/HKDNet-S.png)
-
+Fig.1 Architecture overview of the proposed knowledge distillation (KD) framework. It consists of a powerful and cumbersome network HKDNet-T (teacher network) and a compact network HKDNet-S (student network).We utilized DSSD, FPD, and PNLAD to guide the transfer of HKDNet-T knowledge to HKDNet-S from three phases of two-stream feature extraction, cross-modal feature fusion, and salient object prediction, respectively.
 ![image](https://github.com/TzP2024/HKDNet/blob/main/fig/HKDNet.png)
+Fig.2 Overall architecture of the HKDNet-T. It first generates RGB features  and depth features using a transformer based dual stream encoder. The complementary information of RGB and depth features is then utilized in the cross-modal feature fusion stage to achieve feature fusion. Finally, the fused features are used in the decoder to predict the final result.
 
 # Results
 ![image](https://github.com/TzP2024/HKDNet/blob/main/fig/table.png)
