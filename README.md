@@ -3,4 +3,5 @@
 
 
 # Architecture and Details
-https://github.com/hah/markdown_pics/blob/main/iamges/3.png?raw=true
+![image](https://github.com/TzP2024/HKDNet/blob/main/fig/HKDNet-S.png)
+
