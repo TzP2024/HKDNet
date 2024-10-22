@@ -23,3 +23,6 @@ Download the RGBD Co-SOD dataset from [Baidu](https://pan.baidu.com/s/1HOVfAk65F
 # Saliency Maps
 Download the teacher model HKDNet-T saliency maps from [Baidu](https://pan.baidu.com/s/1QPjb1iNBZx5y7XWJUYKrLg?pwd=eiaf) pwd:eiaf  
 Download the Distilled student model HKDNet-S* saliency maps from [Baidu](https://pan.baidu.com/s/1zORjYzB-NqP_BvDuV6Dy2g?pwd=8v6d) pwd:8v6d
+
+# Acknowledgement
+We appreciate the codebases of [GCoNet_plus](https://github.com/ZhengPeng7/GCoNet_plus). Thanks for the CoSOD evaluation toolbox provided in [eval-co-sod](https://github.com/zzhanghub/eval-co-sod). Thanks for the RGBD CoSal1k dataset from [CTNet](https://github.com/nnizhang/CTNet).
