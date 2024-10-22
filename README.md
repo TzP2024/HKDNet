@@ -17,5 +17,5 @@ Fig.2 Overall architecture of the HKDNet-T. It first generates RGB features  and
 # Evaluate tools
 
 # Saliency Maps
-Download the RGB-T raw data from [HKDNet-T](https://pan.baidu.com/s/1QPjb1iNBZx5y7XWJUYKrLg?pwd=eiaf)
-Download the RGB-T raw data from [HKDNet-S*](https://pan.baidu.com/s/1zORjYzB-NqP_BvDuV6Dy2g?pwd=8v6d)
+Download the teacher model HKDNet-T saliency maps from [Baidu](https://pan.baidu.com/s/1QPjb1iNBZx5y7XWJUYKrLg?pwd=eiaf) pin:eiaf
+Download the Distilled student model HKDNet-S* saliency maps from [Baidu](https://pan.baidu.com/s/1zORjYzB-NqP_BvDuV6Dy2g?pwd=8v6d) pin:8v6d
