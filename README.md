@@ -16,7 +16,6 @@ Comparison with the previous state-of-the-art methods with different training se
 
 ![image](https://github.com/TzP2024/HKDNet/blob/main/fig/fig.png)
 
-# Evaluate tools
 
 # Dataset
 Download the RGBD Co-SOD dataset from [Baidu](https://pan.baidu.com/s/1HOVfAk65FHoJn-ftTHozfA?pwd=61wt) pwd:61wt
