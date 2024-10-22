@@ -9,6 +9,7 @@ Fig.1 Architecture overview of the proposed knowledge distillation (KD) framewor
 ![image](https://github.com/TzP2024/HKDNet/blob/main/fig/HKDNet.png)
 Fig.2 Overall architecture of the HKDNet-T. It first generates RGB features  and depth features using a transformer based dual stream encoder. The complementary information of RGB and depth features is then utilized in the cross-modal feature fusion stage to achieve feature fusion. Finally, the fused features are used in the decoder to predict the final result.
 
+
 # Results
 ![image](https://github.com/TzP2024/HKDNet/blob/main/fig/table.png)
 
@@ -16,6 +17,9 @@ Fig.2 Overall architecture of the HKDNet-T. It first generates RGB features  and
 
 # Evaluate tools
 
+# Dataset
+Download the RGBD Co-SOD dataset from [Baidu](https://pan.baidu.com/s/1HOVfAk65FHoJn-ftTHozfA?pwd=61wt) pwd:61wt
+
 # Saliency Maps
-Download the teacher model HKDNet-T saliency maps from [Baidu](https://pan.baidu.com/s/1QPjb1iNBZx5y7XWJUYKrLg?pwd=eiaf) pin:eiaf  
-Download the Distilled student model HKDNet-S* saliency maps from [Baidu](https://pan.baidu.com/s/1zORjYzB-NqP_BvDuV6Dy2g?pwd=8v6d) pin:8v6d
+Download the teacher model HKDNet-T saliency maps from [Baidu](https://pan.baidu.com/s/1QPjb1iNBZx5y7XWJUYKrLg?pwd=eiaf) pwd:eiaf  
+Download the Distilled student model HKDNet-S* saliency maps from [Baidu](https://pan.baidu.com/s/1zORjYzB-NqP_BvDuV6Dy2g?pwd=8v6d) pwd:8v6d
